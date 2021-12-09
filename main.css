@@ -12,11 +12,12 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
+  letter-spacing: 2px;
 }
 
 .foto img {
   width: 250px;
-  height: 250px;
+  height: 300px;
   border-radius: 50%;
 }
 
@@ -39,7 +40,7 @@ h3 {
 a {
   text-decoration: none;
   color: #fff;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   margin-right: 13px;
 }
 
