@@ -13,6 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   letter-spacing: 2px;
+  font-family: "Poppins", sans-serif;
 }
 
 .foto img {
